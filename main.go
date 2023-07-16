@@ -23,5 +23,5 @@ var books = []book{     // saving data in memory (slice) not using database here
 
 
 func main (){
-
+	router := gin.Default()
 }
